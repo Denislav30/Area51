@@ -1,0 +1,14 @@
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51Threads\LastProjectArea51Threads\bin\Debug\net8.0\LastProjectArea51Threads.exe
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51Threads\LastProjectArea51Threads\bin\Debug\net8.0\LastProjectArea51Threads.deps.json
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51Threads\LastProjectArea51Threads\bin\Debug\net8.0\LastProjectArea51Threads.runtimeconfig.json
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51Threads\LastProjectArea51Threads\bin\Debug\net8.0\LastProjectArea51Threads.dll
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51Threads\LastProjectArea51Threads\bin\Debug\net8.0\LastProjectArea51Threads.pdb
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51Threads\LastProjectArea51Threads\obj\Debug\net8.0\LastProjectArea51Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51Threads\LastProjectArea51Threads\obj\Debug\net8.0\LastProjectArea51Threads.AssemblyInfoInputs.cache
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51Threads\LastProjectArea51Threads\obj\Debug\net8.0\LastProjectArea51Threads.AssemblyInfo.cs
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51Threads\LastProjectArea51Threads\obj\Debug\net8.0\LastProjectArea51Threads.csproj.CoreCompileInputs.cache
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51Threads\LastProjectArea51Threads\obj\Debug\net8.0\LastProjectArea51Threads.dll
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51Threads\LastProjectArea51Threads\obj\Debug\net8.0\refint\LastProjectArea51Threads.dll
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51Threads\LastProjectArea51Threads\obj\Debug\net8.0\LastProjectArea51Threads.pdb
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51Threads\LastProjectArea51Threads\obj\Debug\net8.0\LastProjectArea51Threads.genruntimeconfig.cache
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51Threads\LastProjectArea51Threads\obj\Debug\net8.0\ref\LastProjectArea51Threads.dll

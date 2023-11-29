@@ -1,0 +1,14 @@
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51\LastProjectArea51\bin\Debug\net8.0\LastProjectArea51.exe
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51\LastProjectArea51\bin\Debug\net8.0\LastProjectArea51.deps.json
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51\LastProjectArea51\bin\Debug\net8.0\LastProjectArea51.runtimeconfig.json
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51\LastProjectArea51\bin\Debug\net8.0\LastProjectArea51.dll
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51\LastProjectArea51\bin\Debug\net8.0\LastProjectArea51.pdb
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51\LastProjectArea51\obj\Debug\net8.0\LastProjectArea51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51\LastProjectArea51\obj\Debug\net8.0\LastProjectArea51.AssemblyInfoInputs.cache
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51\LastProjectArea51\obj\Debug\net8.0\LastProjectArea51.AssemblyInfo.cs
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51\LastProjectArea51\obj\Debug\net8.0\LastProjectArea51.csproj.CoreCompileInputs.cache
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51\LastProjectArea51\obj\Debug\net8.0\LastProjectArea51.dll
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51\LastProjectArea51\obj\Debug\net8.0\refint\LastProjectArea51.dll
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51\LastProjectArea51\obj\Debug\net8.0\LastProjectArea51.pdb
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51\LastProjectArea51\obj\Debug\net8.0\LastProjectArea51.genruntimeconfig.cache
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\LastProjectArea51\LastProjectArea51\obj\Debug\net8.0\ref\LastProjectArea51.dll
